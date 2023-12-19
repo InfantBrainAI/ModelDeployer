@@ -35,7 +35,7 @@ An example config file looks like this:
   "model": "Convert T2 to T1",
   "source_code_url": "https://github.com/XuzheZ/PTNet3D",
   "task": "Modality Transfer",
-  "FilenameSchema": "T1toT2"
+  "filename_schema": "T1toT2"
 }
 ```
 JSON Fields:
